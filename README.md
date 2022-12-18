@@ -10,15 +10,16 @@ A screen that would have the user login or sign up. Another screen would allow t
 
 How did you approach the process of coding your app? What techniques or strategies did you use? How could those be applied in the future?
 
-
+I wanted to make sure that the code would accurretly run. I hoped that all the functions would would work according to requiements listed. All I did was try to have all the requirements included in the app. As long as all the requirements were included I am happy with it. I will contine to use this strategy in the future.
 
 How did you test to ensure your code was functional? Why is this process important and what did it reveal?
 
-
+After writing a couple of lins of cade I would test to see if there was any errors. Everything was good up until the end when I got an error that I couldn't fix. It is a little time consuming doing it that way but it works. I want to learn other strategies that I can use in the future. 
 
 Considering the full app design and development process, from initial planning to finalization, where did you have to innovate to overcome a challenge?
 
-
+I wanted my app to look different. I made sure that my background would catch the users attention. I also wanted something that would be easy to use and less time consuming. I believe that I achieved that with my app and hope that I can approve it in the near future.
 
 In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
 
+I believe the layouts for the screens were really successful. I was able to create layouts that incorperated the needed requirements. I believe that screen was easy to navigate and use. 
